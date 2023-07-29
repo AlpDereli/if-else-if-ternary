@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\if else if ternary\bin\Debug\net7.0\if else if ternary.exe
+C:\Users\HP\Desktop\patika\if else if ternary\bin\Debug\net7.0\if else if ternary.deps.json
+C:\Users\HP\Desktop\patika\if else if ternary\bin\Debug\net7.0\if else if ternary.runtimeconfig.json
+C:\Users\HP\Desktop\patika\if else if ternary\bin\Debug\net7.0\if else if ternary.dll
+C:\Users\HP\Desktop\patika\if else if ternary\bin\Debug\net7.0\if else if ternary.pdb
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.dll
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\refint\if else if ternary.dll
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.pdb
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\if else if ternary.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\if else if ternary\obj\Debug\net7.0\ref\if else if ternary.dll
